@@ -18,3 +18,7 @@ npm install
 ```bash
 npm start
 ```
+
+4. flow chart
+
+![image](https://github.com/Withlaw/SRP-DIP-OCP/assets/98410418/dc85c26f-b5a9-4673-a8c8-27d030801e6c)
